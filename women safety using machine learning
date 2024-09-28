@@ -1,0 +1,2 @@
+Project Overview
+This project is focused on predicting the safety of different locations for women using machine learning. The model uses factors like area, time, and surroundings (e.g., police stations or bars) to predict if a location might be safe or unsafe.
